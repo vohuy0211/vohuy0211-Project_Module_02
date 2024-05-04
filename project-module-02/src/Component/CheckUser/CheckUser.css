@@ -1,0 +1,110 @@
+.admin-CheckUser {
+    background-color: #170F23;
+    color: #fff;
+    padding: 20px;
+}
+
+
+.admin-CheckUser h1 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.admin-CheckUser {
+    width: 90%;
+    /* margin: 0 auto; */
+    padding: 20px;
+}
+
+.admin-checkUserTable tbody td img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+    object-fit: cover;
+
+}
+
+table {
+    width: 100%;
+}
+
+.admin-checkUserTable button:hover {
+    background-color: #23527c;
+    cursor: pointer;
+}
+
+.admin-checkUserTable button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #337ab7;
+    color: #fff;
+}
+
+.admin-checkUserTable th {
+    font-weight: bold;
+}
+
+.admin-checkUserTable th,
+.admin-checkUserTable td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.modal h2 {
+    margin-top: 0;
+}
+
+.modal form div {
+    margin-bottom: 10px;
+}
+
+.modal label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.modal input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.modal button {
+    margin-right: 10px;
+}
+
+.admin-checkUserTable {
+    position: relative;
+}
+
+.Active button {
+    color: green;
+}
+
+.UnActive button {
+    color: red;
+}

@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "email": "huyvo02112003@gmail.com",
+      "password": "$2a$10$IlOGVU2cjUmwyfzt8x0OoOeN89ziJrXh7cCaSqa.L3iVnGG1GE2ou",
+      "firstName": "09101901",
+      "active": 1,
+      "lastName": "Huy",
+      "confirmPassword": "02112003Hu",
+      "id": 1
+    },
+    {
+      "email": "vinh@gmail.com",
+      "password": "$2a$10$Hz60cMtGaFEsyP2eYaUUzOLEQQrs9ArztN6Zwchnav.MXHASE0Nmi",
+      "firstName": "01010101",
+      "active": 1,
+      "lastName": "võ",
+      "confirmPassword": "123123123",
+      "id": 2
+    }
+  ],
+  "listMusic": [
+    {
+      "id": 1,
+      "name": "Có Khi",
+      "creator": "Low G",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FC%C3%B3%20Khi%20-%20Madihu%2C%20Low%20G.mp3?alt=media&token=6dce1ce1-23e5-4858-a077-8f95c2254424&_gl=1*ohgrj8*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE4OTEwOC4yLjEuMTY4NjE4OTIwNC4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/share/2022/10/14/1/1/2/c/1665715330724.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 2,
+      "name": "Anh Nhớ ra",
+      "creator": "Vũ , Trang",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FAnh%20Nh%E1%BB%9B%20Ra%20-%20V%C5%A9.%2C%20Trang.mp3?alt=media&token=e9bf1a37-1bf5-46fb-a735-1fa45b9039dd&_gl=1*12pimoq*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MTU3MS4wLjAuMA..",
+      "img": "https://i.ytimg.com/vi/yd0tzKveBss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQigyMA8=&rs=AOn4CLAjxVp42gAdRslAtdT9qFeDU-UsLQ",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 3,
+      "name": "Giữa đại lộ Đông Tây",
+      "creator": "Uyên Linh",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FGi%E1%BB%AFa%20%C4%90%E1%BA%A1i%20L%E1%BB%99%20%C4%90%C3%B4ng%20T%C3%A2y%20-%20Uy%C3%AAn%20Linh.mp3?alt=media&token=7c3da251-0904-4090-8b5f-f5ac41df04f0&_gl=1*1qs83ss*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MTc1Ni4wLjAuMA..",
+      "img": "https://images.genius.com/c95527fcc0b18bdc49c7467113a792f0.500x500x1.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 4,
+      "name": "Cứ để mọi thứ tự nhiên",
+      "creator": "Trid Minh",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FGi%E1%BB%AFa%20%C4%90%E1%BA%A1i%20L%E1%BB%99%20%C4%90%C3%B4ng%20T%C3%A2y%20-%20Uy%C3%AAn%20Linh.mp3?alt=media&token=7c3da251-0904-4090-8b5f-f5ac41df04f0&_gl=1*d8n7pk*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MTk0OC4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/mv/2018/09/20/c/b/a/2/1537431852621_268.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 5,
+      "name": "Năm ngoái giờ này",
+      "creator": "Phùng khánh Linh",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2Fn%C4%83m%20ngo%C3%A1i%20gi%E1%BB%9D%20n%C3%A0y%20(after%20all)%20-%20Ph%C3%B9ng%20Kh%C3%A1nh%20Linh.mp3?alt=media&token=6b1e90aa-3980-419b-8120-91c034504442&_gl=1*12qqj6z*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MjI4Mi4wLjAuMA..",
+      "img": "https://i.ytimg.com/vi/lJkiUFGjRe4/maxresdefault.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 6,
+      "name": "Nắng ấm ngang qua",
+      "creator": "Sơn Tùng MTP",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FN%E1%BA%AFng%20%E1%BA%A4m%20Ngang%20Qua%20-%20S%C6%A1n%20T%C3%B9ng%20M-TP.mp3?alt=media&token=1d8a068e-74b3-42c7-b0b6-c0e90cba0a48&_gl=1*xfce4x*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MjQ0MS4wLjAuMA..",
+      "img": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/8/17/828730/Son-Rung.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 7,
+      "name": "Đáp án cuối cùng",
+      "creator": "Quân A.P",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2F%C4%90%C3%A1p%20%C3%81n%20Cu%E1%BB%91i%20C%C3%B9ng%20-%20Qu%C3%A2n%20A.P.mp3?alt=media&token=ceca8075-e04a-4b58-a303-f2fd4fcf2831&_gl=1*vmdibf*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MjU1NC4wLjAuMA..",
+      "img": "https://2sao.vietnamnetjsc.vn/images/2022/09/24/07/42/1.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 8,
+      "name": "Đa đoan",
+      "creator": "Phan Mạnh Quỳnh",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2F%C4%90a%20%C4%90oan%20-%20Phan%20M%E1%BA%A1nh%20Qu%E1%BB%B3nh.mp3?alt=media&token=2549c9a8-a18d-4078-9e2d-cb2f72ddde06&_gl=1*rur7gn*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MjY0MC4wLjAuMA..",
+      "img": "https://i.ytimg.com/vi/W7CW9xNxtCI/maxresdefault.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 9,
+      "name": "Tình về nơi đâu",
+      "creator": "Thanh Bùi",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FT%C3%ACnh%20V%E1%BB%81%20N%C6%A1i%20%C4%90%C3%A2u%20-%20Thanh%20B%C3%B9i%2C%20Tata%20Young.mp3?alt=media&token=623b522e-b7db-4b80-9383-1eb283645ade&_gl=1*nz2f5j*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5Mjg4NS4wLjAuMA..",
+      "img": "https://image-us.24h.com.vn/upload/4-2022/images/2022-10-09/1665286834-287-thumbnail-width740height555.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 10,
+      "name": "Quá khứ đôi , hiện tại đơn",
+      "creator": "Đức Phúc",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FQu%C3%A1%20Kh%E1%BB%A9%20%C4%90%C3%B4i%2C%20Hi%E1%BB%87n%20T%E1%BA%A1i%20%C4%90%C6%A1n%20-%20%C4%90%E1%BB%A9c%20Ph%C3%BAc.mp3?alt=media&token=77011a0e-a9b7-4416-9323-3d50c7122485&_gl=1*1xzkllw*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MzAwMy4wLjAuMA..",
+      "img": "https://thantuong.tv/custom/domain_1/2022/09/25/image-206-1664082813.jpg",
+      "country": "Việt Nam",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 11,
+      "name": "Share The Night",
+      "creator": "VSTRA",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FShare%20The%20Night%20-%20Larria.%2C%20VSTRA%2C%20antransax.mp3?alt=media&token=8c223d85-73a7-41f7-8548-27809c96c3a4&_gl=1*lv28nw*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5Mjc3OS4wLjAuMA..",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/5/a/4/a/5a4ab0f0fd8acdfaa7e736a11a57ee6c.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 12,
+      "name": "Side Effects",
+      "creator": "Side Effects",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FSide%20Effects%20-%20Rhymastic%2C%20B%20Wine.mp3?alt=media&token=648ebe4b-4cf3-4932-951d-fad49244b5a4&_gl=1*16gd4qi*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MzE5OS4wLjAuMA..",
+      "img": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/c/4/f/9/c4f993232684c994c63f9b5847a12fe7.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 13,
+      "name": "Danger",
+      "creator": "Danger",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FDanger%20-%20woo!ah!.mp3?alt=media&token=587a53f1-acce-43b6-a870-3d45eedee630&_gl=1*h5bs3j*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MzM0MC4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/06/08/0/0/9/1/1654686529545.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 14,
+      "name": "Left And Right",
+      "creator": "Left And Right",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FTaiNhacHay.Biz%20-%2015.%20Left%20And%20Right%20-%20Charlie%20Puth%2C%20Jung%20Kook%20(BTS).mp3?alt=media&token=0b5f8901-af0c-4b42-8e8a-77f5da0ff919&_gl=1*kz8kfo*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MzQyMi4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/06/24/c/5/b/4/1656046374020.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 15,
+      "name": "Girls",
+      "creator": "aespa",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FGirls%20-%20aespa.mp3?alt=media&token=e5f31f82-25ef-4834-b20c-bcbd24f8ea74&_gl=1*1tezf01*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5MzU0Mi4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/07/08/d/4/8/5/1657266111218.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 16,
+      "name": "Still Life",
+      "creator": "BIGBANG",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FStill%20Life%20-%20BIGBANG.mp3?alt=media&token=ed2862e7-10b5-480a-a908-93072bf01d3a&_gl=1*9z0edw*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5NDEwMi4wLjAuMA..",
+      "img": "https://media.vov.vn/sites/default/files/styles/large/public/2022-04/1649368379-bigbang-still-life-m-v-1-18-screenshot_1.png",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 17,
+      "name": "Left And Right",
+      "creator": "Charlie Puth, Jung Kook (BTS)",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FLeft%20And%20Right%20-%20Charlie%20Puth%2C%20Jung%20Kook%20(BTS).mp3?alt=media&token=36389016-fe73-4bdc-b920-22c15e753791&_gl=1*1lmqbvc*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5NDI1NC4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/06/24/c/5/b/4/1656046374020.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 18,
+      "name": "Undercover",
+      "creator": "VERIVERY",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FUndercover%20-%20VERIVERY.mp3?alt=media&token=3ebca225-4147-4054-a10c-ae81f46c6c49&_gl=1*1ebh6t8*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5NDM1MC4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/04/27/c/5/8/2/1651047077697.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 19,
+      "name": "Still Life",
+      "creator": "BIGBANG",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FStill%20Life%20-%20BIGBANG.mp3?alt=media&token=ed2862e7-10b5-480a-a908-93072bf01d3a&_gl=1*1lfrj8u*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5NDQyMy4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/04/05/a/4/7/f/1649125037969.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    },
+    {
+      "id": 20,
+      "name": " Glimpse Of Us",
+      "creator": "Joji",
+      "link": "https://firebasestorage.googleapis.com/v0/b/zingmp3-9bae6.appspot.com/o/audios%2FGlimpse%20Of%20Us%20-%20Joji.mp3?alt=media&token=81c8fa45-fd1f-4985-934f-0eb37cb256d6&_gl=1*hqiy0f*_ga*ODkwMTM3NTk2LjE2ODYxMjkxNjQ.*_ga_CW55HF8NVT*MTY4NjE5MTU2Mi4zLjEuMTY4NjE5NDUwNy4wLjAuMA..",
+      "img": "https://avatar-ex-swe.nixcdn.com/song/2022/06/14/9/6/4/c/1655194263425.jpg",
+      "country": "Quốc tế",
+      "category": "Nhạc Trẻ",
+      "title": "Nhạc trẻ Hay"
+    }
+  ]
+}

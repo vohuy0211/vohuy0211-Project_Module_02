@@ -1,0 +1,32 @@
+.music {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    border: 1px solid black;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 7px;
+}
+
+.music img {
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.music:hover {
+    background-color: #2f2739;
+    /* width: 100px;
+    height: 100px; */
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.Allmusic-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 15px;
+}
